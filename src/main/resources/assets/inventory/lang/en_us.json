@@ -1,0 +1,17 @@
+{
+  "screen.inventory.extended_inventory": "Extended Inventory",
+  "screen.inventory.extended_inventory.syncing": "Syncing inventory data from server...",
+  "screen.inventory.extended_inventory.mode.creative": "Mode: Creative (full vanilla inventory)",
+  "screen.inventory.extended_inventory.mode.modded": "Mode: Survival/Adventure (modded inventory)",
+  "screen.inventory.extended_inventory.main_locked": "Main inventory is locked outside Creative",
+  "screen.inventory.extended_inventory.survival_hint": "Slots from equipped gear",
+  "screen.inventory.extended_inventory.craft_title": "Craft",
+  "screen.inventory.extended_inventory.create_button": "Create",
+  "screen.inventory.extended_inventory.craft.success": "Created successfully",
+  "screen.inventory.extended_inventory.craft.missing_or_no_space": "Cannot craft: missing ingredients or no output space",
+  "screen.inventory.extended_inventory.craft.unknown_recipe": "Cannot craft: unknown recipe",
+  "screen.inventory.extended_inventory.craft.revision_conflict": "Craft canceled: inventory changed, sync required",
+  "item.inventory.test_leather_rig": "Test Leather Rig",
+  "inv.group.test_rig": "Test Rig Pouches",
+  "inv.group.base": "General Storage"
+}

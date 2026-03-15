@@ -1,0 +1,8 @@
+{
+  "examplemod.inventory.error.slot_disabled": "This slot is disabled.",
+  "examplemod.inventory.error.slot_rejected": "This item cannot be placed into the selected slot.",
+  "examplemod.inventory.error.no_space": "Not enough space in destination slot.",
+  "examplemod.inventory.error.no_compatible_slot": "No compatible slot available.",
+  "examplemod.inventory.error.overflow_deny": "Cannot remove equipment: items from dynamic slots would overflow."
+}
+
